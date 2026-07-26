@@ -1,0 +1,24 @@
+{
+  "name": "Even 工作台",
+  "short_name": "Even",
+  "description": "每日成长管理 - 任务看板、减重计划、雅思口语、金句记录",
+  "start_url": "/even-workbench.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f14",
+  "theme_color": "#0f0f14",
+  "icons": [
+    {
+      "src": "/even-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/even-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
