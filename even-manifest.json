@@ -1,7 +1,7 @@
 {
-  "name": "Even 工作台",
-  "short_name": "Even",
-  "description": "每日成长管理 - 任务看板、减重计划、雅思口语、金句记录",
+  "name": "Even Done!",
+  "short_name": "Even Done!",
+  "description": "每日成长工作台 - 金句、计划、雅思、减重、感恩",
   "start_url": "/even-workbench.html",
   "display": "standalone",
   "orientation": "portrait",
